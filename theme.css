@@ -1,0 +1,25 @@
+.hidden-text {
+display: none
+color: white;
+}
+
+.cluepanel {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.notice-box {
+    border: 1px dashed white;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+#mirrorBtn {
+    background-color: darkgreen;
+    color: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
